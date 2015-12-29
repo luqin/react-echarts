@@ -1,5 +1,5 @@
 # react-echarts
-ECharts Components for React
+[ECharts](https://github.com/luqin/echarts) Components for React
 
 [![NPM version][npm-badge]][npm] [![Build Status][travis-ci-image]][travis-ci-url]
 
@@ -28,4 +28,3 @@ npm install react-echarts --save
 
 [travis-ci-image]: https://travis-ci.org/luqin/react-echarts.svg
 [travis-ci-url]: https://travis-ci.org/luqin/react-echarts
-

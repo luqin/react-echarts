@@ -3,33 +3,18 @@ var path = require('path');
 var taskConfig = {
 
   component: {
-    name: 'ReactComponent',
-    lib: './lib',
-    scripts: {
-      entry: './src/index.js',
-      output: {
-        library: 'ReactComponent'
-      },
-      externals: {
-        react: {
-          root: 'React',
-          commonjs2: 'react',
-          commonjs: 'react',
-          amd: 'react'
-        }
-      }
-    }
+    name: 'ReactIcheck'
+  },
+
+  alias: {
+    'react-echarts': path.resolve(__dirname, './src')
   },
 
   example: {
     src: './examples/src',
     dist: './examples/dist',
-    index: 'index.html',
-    script: 'js/app.js',
-    alias: {
-      'react-echarts': path.resolve(__dirname, './src')
-    },
-    files: []
+    entry: './examples/src/js/app.js',
+    html: './examples/src/index.html'
   }
 
 };
