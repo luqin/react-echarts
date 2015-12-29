@@ -1,2 +1,2 @@
-# react-echarts
-React ECharts
+# React [ECharts](https://github.com/luqin/echarts)
+
