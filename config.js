@@ -3,7 +3,7 @@ var path = require('path');
 var taskConfig = {
 
   component: {
-    name: 'ReactIcheck'
+    name: 'ReactEcharts'
   },
 
   alias: {

@@ -1,5 +1,5 @@
 # react-echarts
-[ECharts](https://github.com/luqin/echarts) Components for React
+[ECharts](https://github.com/ecomfe/echarts) Components for React
 
 [![NPM version][npm-badge]][npm] [![Build Status][travis-ci-image]][travis-ci-url]
 
