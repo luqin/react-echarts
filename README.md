@@ -21,7 +21,7 @@ import ECharts from 'react-echarts';
 <ECharts option={this.state.option} />
 ```
 
-## xamples
+## Examples
 
 https://github.com/luqin/react-echarts/tree/master/examples
 
