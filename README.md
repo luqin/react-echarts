@@ -15,7 +15,7 @@ npm install react-echarts --save
 
 
 [npm-badge]: http://badge.fury.io/js/react-echarts.svg
-[npm]: http://badge.fury.io/js/react-echarts
+[npm]: https://www.npmjs.com/package/react-echarts
 
 [deps-badge]: https://david-dm.org/luqin/react-echarts.svg
 [deps]: https://david-dm.org/luqin/react-echarts
