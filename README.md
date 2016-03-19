@@ -27,8 +27,6 @@ https://github.com/luqin/react-echarts/tree/master/examples
 
 ## Props
 
-TODO
-
 Name|Type|Default|Description
 ---|---|---|---
 option|object||ECharts图表的配置项和数据
