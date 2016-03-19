@@ -9,10 +9,25 @@
 
 ## Installation
 
-```
+```sh
 npm install react-echarts --save
 ```
 
+## Usage
+
+```js
+import ECharts from 'react-echarts';
+
+<ECharts option={this.state.option} />
+```
+
+## xamples
+
+https://github.com/luqin/react-echarts/tree/master/examples
+
+## Props
+
+TODO
 
 [npm-badge]: http://badge.fury.io/js/react-echarts.svg
 [npm]: https://www.npmjs.com/package/react-echarts
