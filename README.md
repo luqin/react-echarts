@@ -29,6 +29,12 @@ https://github.com/luqin/react-echarts/tree/master/examples
 
 TODO
 
+Name|Type|Default|Description
+---|---|---|---
+option|object||ECharts图表的配置项和数据
+notMerge|boolean|false|可选，是否不跟之前设置的option进行合并，默认为false，即合并。
+notRefreshImmediately|boolean|false|可选，在设置完option后是否不立即刷新画布，默认为false，即立即刷新。
+
 [npm-badge]: http://badge.fury.io/js/react-echarts.svg
 [npm]: https://www.npmjs.com/package/react-echarts
 
