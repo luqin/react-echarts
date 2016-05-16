@@ -15,6 +15,10 @@
     "url": "https://github.com/luqin/react-echarts"
   },
   "license": "ISC",
+  "files": [
+    "lib",
+    "CHANGELOG.md"
+  ],
   "peerDependencies": {
     "react": ">=0.14.0 || ^15.0.0-rc.2"
   },
