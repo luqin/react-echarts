@@ -1,5 +1,9 @@
 {
-  "stage": 0,
-  "optional": ["runtime"],
-  "plugins": ["object-assign"]
+  "presets": [
+    "stage-0"
+  ],
+  "plugins": [
+    "transform-runtime",
+    "transform-object-assign"
+  ]
 }
